@@ -1,27 +1,64 @@
-# AngularBasic
+![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+# 🅰 Angular Fundamentals
 
-## Development server
+## ⭐ Getting Started
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- ### Install ```angular-cli``` package
 
-## Code scaffolding
+    ```
+    $ npm i -g @angular/cli
+    ```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- ### Check Angular version
 
-## Build
+    ```
+    $ ng --version
+    ```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- ### Initialize a new Angular project
 
-## Running unit tests
+    ```
+    $ ng new yourProjectName
+    // routing? yes
+    // styling? CSS
+    // share data with Google? no
+    ```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- ### Running a project
 
-## Running end-to-end tests
+    ```
+    $ cd yourProjectName
+	$ ng serve --open
+    ```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+#
 
-## Further help
+## ⭐ This project setup
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- ### Clone this repo & install all dependencies
+
+    ```
+    $ git clone https://github.com/LintangWisesa/Angular-Fundamental.git
+    $ npm install
+    ```
+
+- ### Compiles and hot-reloads for development
+    ```
+    $ ng serve --open
+    ```
+
+- ### Compiles and minifies for production
+    ```
+    $ ng build
+    ```
+#
+
+#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
+
+[Facebook](https://www.facebook.com/lintangbagus) | 
+[Twitter](https://twitter.com/Lintang_Wisesa) |
+[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
+[Youtube](https://www.youtube.com/user/lintangbagus) | 
+:octocat: [GitHub](https://github.com/LintangWisesa) |
+[Hackster](https://www.hackster.io/lintangwisesa)

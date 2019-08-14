@@ -1,0 +1,16 @@
+
+Installation
+	$ npm i -g @angular/cli
+
+Check version
+	$ ng --version
+
+Create Angular project
+	$ ng new yourProjectName
+		- routing? yes
+		- styling? CSS
+		- share data with Google? no
+
+Run the project
+	$ cd yourProjectName
+	$ ng serve --open
