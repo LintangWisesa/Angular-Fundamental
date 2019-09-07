@@ -11,10 +11,8 @@ export class AppComponent {
   nama:string = 'simplinnovation'
 
   constructor(){
-    this.ubahName('Lintang Wisesa')
-  }
-
-  ubahName(x:string):void {
-    this.name = x
+    console.log('Hello everyone!')
+    this.name = 'Wisesa'  
+    // name will be changed from 'Lintang' to 'Wisesa'
   }
 }

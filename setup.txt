@@ -14,3 +14,6 @@ Create Angular project
 Run the project
 	$ cd yourProjectName
 	$ ng serve --open
+
+Create component
+	$ ng component folderName/componentName

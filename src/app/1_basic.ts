@@ -9,12 +9,4 @@ export class AppComponent {
   title = 'angular-basic';
   name = 'Lintang';
   nama:string = 'simplinnovation'
-
-  constructor(){
-    this.ubahName('Lintang Wisesa')
-  }
-
-  ubahName(x:string):void {
-    this.name = x
-  }
 }
